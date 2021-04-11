@@ -1,0 +1,25 @@
+/* .loading_animation{
+    background-color: #f90;
+} */
+.loading_animation .animation_card {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  margin-bottom: 30px;
+}
+
+.loading_animation .animation_card .animation_body{
+  width: 100%;
+  height: 235px;
+  background: #ffffff91;
+  margin-bottom: 15px;  
+  border-radius: 10px;
+  box-shadow: 0 0 5px 1px rgb(0 0 0 / 8%);
+}
+.loading_animation .animation_card .animation_footer{
+  width: 100%;
+  height: 50px;
+  background: #ffffff91;
+  border-radius: 10px;
+  box-shadow: 0 0 5px 1px rgb(0 0 0 / 8%);
+}
